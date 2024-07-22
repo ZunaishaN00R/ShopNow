@@ -37,7 +37,7 @@ class TSizes{
   static const double productItemHeight = 160.0;
 
   static const double inputFieldRadius = 16.0;
-  static const double spaceBtwInputFields = 160.0;
+  static const double spaceBtwInputFields = 16.0;
 
   static const double cardRadiusLg = 16.0;
   static const double cardRadiusMd = 12.0;

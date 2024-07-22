@@ -9,4 +9,45 @@ class TTexts{
 
   static const String homeAppbarTitle = "GoodDay For Shopping";
   static const String homeAppbarSubTitle = "Zunaisha Noor";
+
+  static const String loginTitle = "Welcome Back,";
+  static const String loginSubTitle = "Discover Limitless Choices and Unmatched Convenience.";
+  static const String signupTitle = "Let's Create your Account";
+  static const String forgetPasswordTitle = "Forget Password";
+  static const String forgetPasswordSubTitle = "Don't Worry Sometimes People can Forget , Enter your Email and We will send you a Password Reset Link.";
+  static const String changeYourPasswordTitle = "Password Reset Email Sent";
+  static const String changeYourPasswordSubTitle = "Your Account Security is Our Priority! We've Sent You a Secure Link to Safely Chanhe Your Password and Keep Your Account Protected.";
+  static const String confirmEmail = "Verify Your Email Address";
+  static const String confirmEmailSubTitle = "Congratulations! Your Account Awaits: Verify your Email to start Shopping and Experience a World of Unrivaled Deals and Personalized Offers.";
+  static const String emailNotReceivedMessage = "Didn't Get the Email? Check Your Junk/Spam or resend It";
+  static const String yourAccountCreatedTitle = "Your Account Created Successfully";
+  static const String yourAccountCreatedSubTitle = "Welcome to your Ultimate Shopping Destination . Your Account is created , Unleash the Joy of Seamless Online Shopping!";
+
+  static const String submit = "Submit";
+  static const String appName = "Shop Now";
+  static const String tContinue = "Continue";
+
+
+  static const String firstName = "First Name";
+  static const String lastName = "Last Name";
+  static const String email = "Email";
+  static const String password = "Password";
+  static const String newPassword = "New Password";
+  static const String username = "User Name";
+  static const String phoneNo = "Phone Number";
+  static const String rememberMe = "Remember Me";
+  static const String forgetPassword = "Forget Password";
+  static const String signIn = "Sign In";
+  static const String and = " and";
+  static const String done = "Done";
+  static const String createAccount = "Create Account";
+  static const String orSignInWith = "or sign in with";
+  static const String orSignUpWith = "or sign up with";
+  static const String iAgreeTo = "I agree to";
+  static const String privacyPolicy = "Privacy Policy";
+  static const String termOfUse = "Term Of Use";
+  static const String verificationCode = "Verification Code";
+  static const String resendEmail = "Resend Email";
+  static const String resendEmailIn = "Resend Email In";
+
 }
